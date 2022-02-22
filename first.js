@@ -17,3 +17,5 @@ class Person extends User {
         this.email = email;
     }
 }
+
+const victor = new User("Victor");

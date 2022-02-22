@@ -1,3 +1,7 @@
+const b = "Hi"
+
 function a () {
-    console.log("hi");
+    console.log(b);
 }
+
+a();
